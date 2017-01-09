@@ -16,5 +16,5 @@ To Run the application:
 2. Go to the root directory of the app.
 3. Enter: npm install
 4. After successfull execution of 3rd step Enter: npm start
-5. Once the build is completed open your browser and type : http://localhost:8080/ to run the application
+5. Once the build is completed open your browser and type : http://localhost:8080/ or http://localhost:8090/ to run the application
   on the browser.
